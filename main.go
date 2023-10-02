@@ -1,5 +1,5 @@
 /*
-Copyright © 2023 NAME HERE maxwelbm@hotmail.com
+copyright © 2023 Maxwel Mazur maxwelbm@hotmail.com
 */
 package main
 
